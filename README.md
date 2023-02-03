@@ -2,8 +2,10 @@
 
 ### Game under test: [link]  
 
-### Test Plan: https://github.com/davegarciaromero/Testing-Template/blob/main/Test%20Documentation/Test%20Plan%20-%20Template.pdf  
-### Test Reports: https://github.com/davegarciaromero/Testing-Template/tree/main/Reports
+### Test Plan
+[Test Plan document](https://github.com/davegarciaromero/Testing-Template/blob/main/Test%20Documentation/Test%20Plan%20-%20Template.pdf)  
+### Test Reports: 
+Folder containing the reports generated.  [Report Folder](https://github.com/davegarciaromero/Testing-Template/tree/main/Reports)
 
 
 ## PROGRESS - JIRA Exmple project 
