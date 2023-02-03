@@ -1,4 +1,4 @@
-# Testing- [PROJECT NAME]
+# Testing- [PROJECT EXAMPLE]
 
 ### Game under test: [link]  
 
